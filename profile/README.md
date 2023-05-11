@@ -12,6 +12,7 @@ middleware in your code, specifically tailored for testing purposes.
 - [HuaweiCloud](#HuaweiCloud)
 - [Influxdb](#Influxdb)
 - [Kafka](#Kafka)
+- [Minio](#Minio)
 - [Mongo](#Mongo)
 - [Pulsar](#Pulsar)
 - [Redis](#Redis)
@@ -44,6 +45,11 @@ middleware in your code, specifically tailored for testing purposes.
 ### Kafka
 
 - [embedded-kafka-java](https://github.com/embedded-middleware/embedded-kafka-java)
+
+### Minio
+
+- [embedded-minio-go](https://github.com/embedded-middleware/embedded-minio-go)
+- [embedded-minio-java](https://github.com/embedded-middleware/embedded-minio-java)
 
 ### Mongo
 
