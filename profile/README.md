@@ -10,6 +10,7 @@ middleware in your code, specifically tailored for testing purposes.
 - [Database](#Database)
 - [Elasticsearch](#Elasticsearch)
 - [HuaweiCloud](#HuaweiCloud)
+- [Ignite](#Ignite)
 - [Influxdb](#Influxdb)
 - [Kafka](#Kafka)
 - [Minio](#Minio)
@@ -37,6 +38,10 @@ middleware in your code, specifically tailored for testing purposes.
 ### HuaweiCloud
 
 - [embedded-huaweicloud-java](https://github.com/embedded-middleware/embedded-huaweicloud-java)
+
+### Ignite
+
+- [embedded-ignite-java](https://github.com/embedded-middleware/embedded-ignite-java)
 
 ### Influxdb
 
